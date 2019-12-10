@@ -1,0 +1,14 @@
+C:\Users\chn\source\repos\OpenWrtPackageInstaller\OpenWrtPackageInstaller\bin\Debug\OpenWrtPackageInstaller.exe.config
+C:\Users\chn\source\repos\OpenWrtPackageInstaller\OpenWrtPackageInstaller\bin\Debug\OpenWrtPackageInstaller.exe
+C:\Users\chn\source\repos\OpenWrtPackageInstaller\OpenWrtPackageInstaller\bin\Debug\OpenWrtPackageInstaller.pdb
+C:\Users\chn\source\repos\OpenWrtPackageInstaller\OpenWrtPackageInstaller\bin\Debug\OpenWrtPackageInstaller.xml
+C:\Users\chn\source\repos\OpenWrtPackageInstaller\OpenWrtPackageInstaller\obj\Debug\OpenWrtPackageInstaller.vbprojAssemblyReference.cache
+C:\Users\chn\source\repos\OpenWrtPackageInstaller\OpenWrtPackageInstaller\obj\Debug\OpenWrtPackageInstaller.Form1.resources
+C:\Users\chn\source\repos\OpenWrtPackageInstaller\OpenWrtPackageInstaller\obj\Debug\OpenWrtPackageInstaller.Resources.resources
+C:\Users\chn\source\repos\OpenWrtPackageInstaller\OpenWrtPackageInstaller\obj\Debug\OpenWrtPackageInstaller.vbproj.GenerateResource.cache
+C:\Users\chn\source\repos\OpenWrtPackageInstaller\OpenWrtPackageInstaller\obj\Debug\OpenWrtPackageInstaller.exe
+C:\Users\chn\source\repos\OpenWrtPackageInstaller\OpenWrtPackageInstaller\obj\Debug\OpenWrtPackageInstaller.xml
+C:\Users\chn\source\repos\OpenWrtPackageInstaller\OpenWrtPackageInstaller\obj\Debug\OpenWrtPackageInstaller.pdb
+C:\Users\chn\source\repos\OpenWrtPackageInstaller\OpenWrtPackageInstaller\obj\Debug\OpenWrtPackageInstaller.Form2.resources
+C:\Users\chn\source\repos\OpenWrtPackageInstaller\OpenWrtPackageInstaller\bin\Debug\Renci.SshNet.dll
+C:\Users\chn\source\repos\OpenWrtPackageInstaller\OpenWrtPackageInstaller\obj\Debug\OpenWrtPackageInstaller.vbproj.CopyComplete

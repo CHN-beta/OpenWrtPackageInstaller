@@ -1,0 +1,13 @@
+C:\Users\chn\source\repos\OpenWrtPackageInstaller\OpenWrtPackageInstaller\bin\Release\Renci.SshNet.dll
+C:\Users\chn\source\repos\OpenWrtPackageInstaller\OpenWrtPackageInstaller\bin\Release\OpenWrtPackageInstaller.exe.config
+C:\Users\chn\source\repos\OpenWrtPackageInstaller\OpenWrtPackageInstaller\bin\Release\OpenWrtPackageInstaller.exe
+C:\Users\chn\source\repos\OpenWrtPackageInstaller\OpenWrtPackageInstaller\bin\Release\OpenWrtPackageInstaller.pdb
+C:\Users\chn\source\repos\OpenWrtPackageInstaller\OpenWrtPackageInstaller\bin\Release\OpenWrtPackageInstaller.xml
+C:\Users\chn\source\repos\OpenWrtPackageInstaller\OpenWrtPackageInstaller\obj\Release\OpenWrtPackageInstaller.Form1.resources
+C:\Users\chn\source\repos\OpenWrtPackageInstaller\OpenWrtPackageInstaller\obj\Release\OpenWrtPackageInstaller.Form2.resources
+C:\Users\chn\source\repos\OpenWrtPackageInstaller\OpenWrtPackageInstaller\obj\Release\OpenWrtPackageInstaller.Resources.resources
+C:\Users\chn\source\repos\OpenWrtPackageInstaller\OpenWrtPackageInstaller\obj\Release\OpenWrtPackageInstaller.vbproj.GenerateResource.cache
+C:\Users\chn\source\repos\OpenWrtPackageInstaller\OpenWrtPackageInstaller\obj\Release\OpenWrtPackageInstaller.vbproj.CopyComplete
+C:\Users\chn\source\repos\OpenWrtPackageInstaller\OpenWrtPackageInstaller\obj\Release\OpenWrtPackageInstaller.exe
+C:\Users\chn\source\repos\OpenWrtPackageInstaller\OpenWrtPackageInstaller\obj\Release\OpenWrtPackageInstaller.xml
+C:\Users\chn\source\repos\OpenWrtPackageInstaller\OpenWrtPackageInstaller\obj\Release\OpenWrtPackageInstaller.pdb

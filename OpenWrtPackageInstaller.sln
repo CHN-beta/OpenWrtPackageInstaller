@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "OpenWrtPackageInstaller", "OpenWrtPackageInstaller\OpenWrtPackageInstaller.vbproj", "{BF9EC06F-89B0-44C3-AC31-F57E7981A755}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BF9EC06F-89B0-44C3-AC31-F57E7981A755}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF9EC06F-89B0-44C3-AC31-F57E7981A755}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF9EC06F-89B0-44C3-AC31-F57E7981A755}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF9EC06F-89B0-44C3-AC31-F57E7981A755}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0F47D5D8-9B26-4AD5-9C86-B5F14958D24C}
+	EndGlobalSection
+EndGlobal
